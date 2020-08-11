@@ -117,6 +117,25 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "giraffee",
+      "species": "large animal",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "walrus",
+      "species": "fish",
+      "diet": "folivore",
+      "personalityTraits": [
+        "anxious",
+        "goofy"
+      ],
+      "id": "13"
     }
   ]
 }
