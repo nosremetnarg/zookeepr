@@ -136,6 +136,16 @@
         "goofy"
       ],
       "id": "13"
+    },
+    {
+      "name": "zebra",
+      "species": "large horse",
+      "diet": "folivore",
+      "personalityTraits": [
+        "zany",
+        "anxious"
+      ],
+      "id": "14"
     }
   ]
 }
